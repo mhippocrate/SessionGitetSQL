@@ -85,4 +85,4 @@ Salle Discord : **Mercure**
 
 ## Parcours S05
 
-Salle Discord : **Phenix**
+Voir le message de Fred aujourd'hui dans Slack
