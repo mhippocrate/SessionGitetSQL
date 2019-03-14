@@ -6,7 +6,7 @@
 - SQL
 - POO
 
-https://github.com/O-clock-XXX/S05-E07-exo-fonctionnalite-panier  
+https://github.com/O-clock-Quantum/S05-E07-exo-fonctionnalite-panier  
 Salle Discord : **XXX**
 
 ## Bonus de l'exo sur le panier
@@ -14,7 +14,7 @@ Salle Discord : **XXX**
 - Bootstrap
 - jQuery
 
-https://github.com/O-clock-XXX/S05-E07-exo-fonctionnalite-panier  
+https://github.com/O-clock-Quantum/S05-E07-exo-fonctionnalite-panier  
 Salle Discord : **XXX**
 
 ## Mega-Bonus de l'exo sur le panier
@@ -22,7 +22,7 @@ Salle Discord : **XXX**
 - jQuery
 - MVC
 
-https://github.com/O-clock-XXX/S05-E07-exo-fonctionnalite-panier  
+https://github.com/O-clock-Quantum/S05-E07-exo-fonctionnalite-panier  
 Salle Discord : **XXX**
 
 ## Bonus challenge E06
@@ -32,7 +32,7 @@ Salle Discord : **XXX**
 - POO
 - Intégration (un peu)
 
-https://github.com/O-clock-XXX/S05-E06-challenge-fonctionnalites  
+https://github.com/O-clock-Quantum/S05-E06-challenge-fonctionnalites  
 Salle Discord : **XXX**
 
 ## Intégration Blog
@@ -42,7 +42,19 @@ Salle Discord : **XXX**
 - sémantique
 - Framework CSS de son choix (ou pas de framework)
 
-https://github.com/O-clock-XXX/atelier-html-css  
+https://github.com/O-clock-Quantum/S05-atelier-revisions-html-css-blog   
+Salle Discord : **XXX**
+
+:warning: coder dans une branche séparée
+
+## Intégration Portfolio
+
+- HTML
+- CSS
+- sémantique
+- Framework CSS de son choix (ou pas de framework)
+
+https://github.com/O-clock-Quantum/S05-atelier-revisions-integration   
 Salle Discord : **XXX**
 
 :warning: coder dans une branche séparée
@@ -54,7 +66,7 @@ Salle Discord : **XXX**
 - Composer
 - AltoRouter
 
-https://github.com/O-clock-XXX/S05-atelier-revisions-pokedex  
+https://github.com/O-clock-Quantum/S05-atelier-revisions-pokedex  
 Salle Discord : **XXX**
 
 :warning: coder dans une branche séparée
@@ -66,7 +78,7 @@ Salle Discord : **XXX**
 - POO
 - intégration à reprendre de la saison 4, ou à refaire en Bootstrap
 
-https://github.com/O-clock-XXX/atelier-oblog-mvc  
+https://github.com/O-clock-Quantum/S05-atelier-revisions-oblog-mvc  
 Salle Discord : **XXX**
 
 :warning: coder dans une branche séparée
